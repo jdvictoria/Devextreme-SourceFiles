@@ -1,0 +1,1 @@
+export var WORK_SPACE_BORDER_PX = 1;
